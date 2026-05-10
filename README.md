@@ -1,6 +1,6 @@
 # Cajuzinho - Academic Scripts
 
-Este repositório contém apenas scripts acadêmicos e exemplos utilizados no desenvolvimento do projeto do jogo "Cajuzinho".
+Este repositório contém apenas scripts e exemplos utilizados no desenvolvimento do projeto do jogo "Cajuzinho".
 
 O projeto original utiliza assets autorais, incluindo artes, músicas e outros conteúdos exclusivos da equipe N1S1 Games, que não estão incluídos neste repositório.
 
